@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 # Site settings
 title: Rewindding的小站-demo  				  	#你博客的标题
 SEOTitle: Rewindding的little-site   	 #显示在浏览器上搜索的时候显示的标题
- 	#显示在首页的背景图片
+
 
 description: "You Blog"  			 #网站介绍
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" #关键词
